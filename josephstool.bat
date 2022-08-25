@@ -1,0 +1,1 @@
+docker run -d -v $(shell pwd)/input:/input -v $(shell pwd)/result:/result josephstool:latest
