@@ -1,7 +1,7 @@
 # How To Run
 > you must have Docker installed
 
-## Linux.
+## UNIX
 - Open the git bash in the certain folder.
 - `make build` then `make run`
 - You can see the white outlined images in result folder.
