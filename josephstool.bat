@@ -1,1 +1,1 @@
-docker run -d -v %cd%/input:/input -v %cd%/result:/result gcr.io/ytpurge-420/github.com/paulmikulskis/josephstool:latest
+docker run -d -v "%cd%/input:/input" -v "%cd%/result:/result" gcr.io/ytpurge-420/github.com/paulmikulskis/josephstool:latest

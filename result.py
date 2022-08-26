@@ -2,7 +2,7 @@
 import numpy as np
 import cv2
 from pathlib import Path, PurePath
- 
+# https://stackoverflow.com/questions/66753026/opencv-smoother-contour
 # get the path/directory
 folder_dir = './output'
 
